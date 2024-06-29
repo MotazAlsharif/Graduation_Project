@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171465684664",
+    "project_id": "sfit-cd995",
+    "storage_bucket": "sfit-cd995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171465684664:android:38635c98d4dc93450aa64d",
+        "android_client_info": {
+          "package_name": "com.example.sfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYee9p6Dew1q0f59m2fuYI0aK54X8xIUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
